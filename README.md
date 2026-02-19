@@ -1,5 +1,7 @@
 ## 🖥 Dashboard Preview
-![Enterprise Dashboard](screenshots/enterprise-dashboard-overview.png)
+
+![Enterprise Dashboard](Screenshots/Enterprise-dashboard-overview.png.png)
+
 📊 Enterprise BI Dashboard | Sales, Finance & Healthcare Analytics
 🔍 Overview
 
