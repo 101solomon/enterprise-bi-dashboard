@@ -1,5 +1,5 @@
 ## 🖥️ Dashboard Preview
-Screenshots/Enterprise-dashboard-overview.png
+(Screenshots/Enterprise-dashboard-overview.png)
 
 
 
