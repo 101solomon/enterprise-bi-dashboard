@@ -1,4 +1,4 @@
-![Enterprise Dashboard](Screenshots/Enterprise-dashboard-overview.png.png)
+🖼 Screenshots
 
 
 
