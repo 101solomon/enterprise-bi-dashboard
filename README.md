@@ -1,6 +1,6 @@
 ## 🖥️ Dashboard Preview
 
-![Enterprise-dashboard-overview](Screenshots/Enterprise-dashboard-overview.png)
+![enterprise-dashboard-overview](Screenshots/Enterprise-dashboard-overview.png)
 
 
 
