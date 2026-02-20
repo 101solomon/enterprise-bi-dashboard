@@ -1,6 +1,8 @@
 ## 🖥 Dashboard Preview
 
-![Enterprise Dashboard](Screenshots/Finance-performance.png.png)
+![Enterprise Dashboard](Screenshots/enterprise-dashboard-overview.png)
+
+
 
 
 
