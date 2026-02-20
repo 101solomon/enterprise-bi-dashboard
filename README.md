@@ -1,6 +1,4 @@
-![enterprise-bi-Dashboard](Screenshots/enterprise-dashboard-overview.png)
-
-🖼 Screenshots/Enterprise-dashboard-overview.png
+🖼 Screenshots/Finance-performance.png
 
 
 
