@@ -1,13 +1,6 @@
-🖼 Screenshots/Finance-performance.png
+## 🖥️ Dashboard Preview
 
-
-
-
-
-
-
-
-
+![Enterprise Dashboard](Screenshots/overview.png)
 
 
 📊 Enterprise BI Dashboard | Sales, Finance & Healthcare Analytics
