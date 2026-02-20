@@ -1,4 +1,4 @@
-![enterprise-bi-Dashboard](Screenshots/Enterprise-dashboard-overview.png)
+![enterprise-bi-Dashboard](Screenshots/enterprise-dashboard-overview.png)
 
 🖼 Screenshots/Enterprise-dashboard-overview.png
 
