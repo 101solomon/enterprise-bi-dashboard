@@ -1,8 +1,8 @@
-![Enterprise BI Executive Dashboard](Screenshots/Enterprise-dashboard-overview.png)
+## 📷 Dashboard Preview
 
-
-
-
+<p align="center">
+  <img src="Screenshots/Enterprise-dashboard-overview.png" width="900"/>
+</p>
 
 
 📊 Enterprise BI Dashboard | Sales, Finance & Healthcare Analytics
