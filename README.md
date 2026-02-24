@@ -1,7 +1,7 @@
 ## 📷 Dashboard Preview
 
 ![Enterprise BI Executive Dashboard](Screenshots/Enterprise-dashboard-overview.png)
-
+https://app.powerbi.com/reportEmbed?reportId=a50a437c-7107-4e14-9692-cc492fe0cb25&autoAuth=true&ctid=3eb3d01e-9f8f-4b54-9885-92d3333f0d5c
 
 📊 Enterprise BI Dashboard | Sales, Finance & Healthcare Analytics
 🔍 Overview
