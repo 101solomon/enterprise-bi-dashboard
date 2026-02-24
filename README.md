@@ -1,8 +1,12 @@
-## 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Enterprise BI Executive Dashboard](Screenshots/Enterprise-dashboard-overview.png)
-https://app.powerbi.com/reportEmbed?reportId=a50a437c-7107-4e14-9692-cc492fe0cb25&autoAuth=true&ctid=3eb3d01e-9f8f-4b54-9885-92d3333f0d5c
-<iframe title="Enterprise_BI_Dashboard_Sales_Finance_Healthcare" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=a50a437c-7107-4e14-9692-cc492fe0cb25&autoAuth=true&ctid=3eb3d01e-9f8f-4b54-9885-92d3333f0d5c" frameborder="0" allowFullScreen="true"></iframe>
+
+## 🌐 Live Interactive Report
+
+Explore the full interactive Power BI report:
+
+🔗 [Open Live Power BI Report]([PASTE_YOUR_LINK_HERE](https://app.powerbi.com/reportEmbed?reportId=a50a437c-7107-4e14-9692-cc492fe0cb25&autoAuth=true&ctid=3eb3d01e-9f8f-4b54-9885-92d3333f0d5c))
 
 📊 Enterprise BI Dashboard | Sales, Finance & Healthcare Analytics
 🔍 Overview
