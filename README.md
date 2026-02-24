@@ -1,4 +1,4 @@
-![Enterprise BI Executive Dashboard](Screenshots/enterprise-bi-executive-dashboard.png)
+Screenshots
 
 
 
