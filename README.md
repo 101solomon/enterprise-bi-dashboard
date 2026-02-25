@@ -1,3 +1,35 @@
+# Enterprise BI Dashboard | Sales, Finance & Healthcare Analytics
+
+## 📑 Table of Contents
+
+- [Dashboard Preview](#-dashboard-preview)
+- [Live Interactive Report](#-live-interactive-report)
+- [Sales Performance](#-sales-performance)
+- [Finance Performance](#-finance-performance)
+- [Healthcare Performance](#-healthcare-performance)
+- [Drillthrough & Detail Analysis](#-drillthrough--detail-analysis)
+- [Tools & Technologies](#-tools--technologies)
+
+---
+
+## 📊 Dashboard Preview
+
+![Enterprise BI Executive Dashboard](Screenshots/Enterprise-dashboard-overview.png)
+
+---
+
+## 🌐 Live Interactive Report
+
+Explore the full interactive Power BI report:
+
+🔗 **[Open Live Power BI Report](YOUR_LINK)**
+
+
+
+
+
+
+
 ## 🌐 Live Interactive Report
 
 Explore the full interactive Power BI report:
