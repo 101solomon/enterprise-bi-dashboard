@@ -18,6 +18,37 @@
 
 ---
 ## 🌐 Live Interactive Report
+---
+
+## 📈 Sales Performance
+
+![Sales Performance](Screenshots/Sales-performance.png)
+
+Brief explanation of sales KPIs, YoY growth, category breakdown, and trend analysis.
+
+---
+
+## 💰 Finance Performance
+
+![Finance Performance](Screenshots/Finance-performance.png)
+
+Overview of budget vs actual, profit analysis, and cost monitoring insights.
+
+---
+
+## 🏥 Healthcare Performance
+
+![Healthcare Performance](Screenshots/Healthcare-performance.png)
+
+Healthcare quality metrics, encounter trends, and readmission rate tracking.
+
+---
+
+## 🔎 Drillthrough & Detail Analysis
+
+![Hospital Drillthrough](Screenshots/Hospital-drillthrough.png)
+
+Detailed hospital-level insights enabled through drillthrough navigation.
 
 Explore the full interactive Power BI report:
 
