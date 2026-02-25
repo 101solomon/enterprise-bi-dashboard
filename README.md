@@ -17,19 +17,6 @@
 ![Enterprise BI Executive Dashboard](Screenshots/Enterprise-dashboard-overview.png)
 
 ---
-
-## 🌐 Live Interactive Report
-
-Explore the full interactive Power BI report:
-
-🔗 **[Open Live Power BI Report](YOUR_LINK)**
-
-
-
-
-
-
-
 ## 🌐 Live Interactive Report
 
 Explore the full interactive Power BI report:
